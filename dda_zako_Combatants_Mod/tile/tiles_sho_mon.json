@@ -1,0 +1,75 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ 
+	 "Custom Tileset",
+	 "MshockXottoplus",
+	 "MSX++DEAD_PEOPLE",
+	 "UNDEAD_PEOPLE",
+	 "ChestHole32",
+	 "UNDEAD_PEOPLE_BASE",
+	 "UltimateCataclysm",
+	 "UltimateCataclysmDemo",
+	 "Chibi_Ultica",
+	 "MshockXottoplus",
+	 "Alternative Ultica",
+	 "MshockXottoplus"
+  ],
+  "tile_info": [
+    {
+      "height": 48,
+      "width": 48
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/combatant_big.png",
+	  "sprite_width":48,
+   	  "sprite_height":48,
+	  "sprite_offset_x":-8,
+	  "sprite_offset_y":-16,
+      "tiles": 
+      [				
+		{ "id": "mon_fem_zako1",
+          "fg": [
+		    { "weight": 1, "sprite": 0 },
+			{ "weight": 1, "sprite": 1 },
+			{ "weight": 1, "sprite": 2 },
+			{ "weight": 1, "sprite": 3 },
+			{ "weight": 1, "sprite": 4 }
+		] },	
+        { "id": "corpse_mon_fem_zako1",   
+		  "fg": [
+		    { "weight": 1, "sprite": 5 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_zako2",
+          "fg": [
+		    { "weight": 1, "sprite": 6 },
+			{ "weight": 1, "sprite": 7 },
+			{ "weight": 1, "sprite": 8 },
+			{ "weight": 1, "sprite": 9 }
+		] },	
+        { "id": "corpse_mon_fem_zako2",   
+		  "fg": [
+		    { "weight": 1, "sprite": 10 } ],
+		      "rotates": false
+		},
+		
+		{ "id": "mon_fem_zako3",
+          "fg": [
+		    { "weight": 1, "sprite": 11 },
+			{ "weight": 1, "sprite": 12 },
+			{ "weight": 1, "sprite": 13 },
+			{ "weight": 1, "sprite": 14 },
+			{ "weight": 1, "sprite": 15 }
+		] },	
+        { "id": "corpse_mon_fem_zako3",   
+		  "fg": [
+		    { "weight": 1, "sprite": 16 } ],
+		      "rotates": false
+		}
+      ]		
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "default_zako1_death_drops",
+    "entries": [ 
+{ "item": "leotard", "prob": 51 },
+{ "item": "gloves_leather", "prob": 51 },
+{ "item": "knee_high_boots", "prob": 51 } ]
+  },
+  {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "default_zako2_death_drops",
+    "entries": [ 
+{ "item": "beret", "prob": 51 },
+{ "item": "sports_bra", "prob": 51 },
+{ "item": "gloves_leather", "prob": 51 },
+{ "item": "knee_high_boots", "prob": 51 },
+{ "item": "panties", "prob": 51 } ]
+  }  
+]
