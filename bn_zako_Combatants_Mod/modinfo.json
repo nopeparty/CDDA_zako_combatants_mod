@@ -1,0 +1,9 @@
+{
+  "type": "MOD_INFO",
+  "ident": "Zako_combatants",
+  "name": "Zako combatants enemies",
+  "authors": [ "nopeparty" ],
+  "description": "Adds some monsters from female zako combatants. Pretty much unbalance and chaotic. Working in progress.",
+  "category": "creatures",
+  "dependencies": [ "bn" ]
+}

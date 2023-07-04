@@ -1,0 +1,23 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "zako1",
+    "friendly": [  ],
+    "neutral": [ "small_animal","fish" ],
+	"hate": [ "human","player" ]
+  },
+    {
+    "type": "MONSTER_FACTION",
+    "name": "zako2",
+    "friendly": [  ],
+    "neutral": [ "small_animal","fish" ],
+	"hate": [ "human","player" ]
+  },
+    {
+    "type": "MONSTER_FACTION",
+    "name": "zako3",
+    "friendly": [  ],
+    "neutral": [ "small_animal","fish" ],
+	"hate": [ "human","player" ]
+  }
+]
